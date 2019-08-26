@@ -1,0 +1,8 @@
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\bin\Debug\HomeGame.exe.config
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\bin\Debug\HomeGame.exe
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\bin\Debug\HomeGame.pdb
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\obj\Debug\HomeGame.csprojAssemblyReference.cache
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\obj\Debug\HomeGame.csproj.CoreCompileInputs.cache
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\obj\Debug\HomeGame.exe
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\obj\Debug\HomeGame.pdb
+C:\Users\MaRina\Documents\Programs\HomeGame\HomeGame\bin\Debug\Music.wav
